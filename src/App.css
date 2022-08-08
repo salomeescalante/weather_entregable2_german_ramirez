@@ -72,7 +72,7 @@
 
 body {
    
-    background-image: url('./public/fondo_weather.jpg');
+    background-image: url(../public/fondo_weather.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
@@ -98,7 +98,7 @@ body {
     width: 200%;
     height: 500px;
     border-radius: 10px;
-    10px-webkit-border-radius:;
+    -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
