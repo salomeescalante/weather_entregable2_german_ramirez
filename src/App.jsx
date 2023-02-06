@@ -6,8 +6,6 @@ import LoadingScreen from './assets/components/LoadingScreen'
 
 function App() {
 
-
-
   const [coords, setCoords] = useState()
 
 
